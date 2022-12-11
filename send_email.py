@@ -13,6 +13,7 @@ import smtplib
 email_sender = 'gajen.demo@gmail.com'
 email_password = password
 
+#email_receiver from temp-mail.org
 email_receiver = 'dokewet494@cosaxu.com'
 
 subject = 'Subject'
